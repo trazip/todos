@@ -10,5 +10,3 @@ module Features
     click_on 'Sign in'
   end
 end
-
-RSpec.configure { |config| config.include Features }
